@@ -51,5 +51,4 @@
     adaptiveHeight: true,
     mode: 'fade'
   });
-
 })(jQuery);
